@@ -6,15 +6,9 @@ body {
 .active-link {
   color: #2196f3;
 }
-.hovered-links {
-  font-size: 14px;
-  font-weight: 500;
-  line-height: 16px;
-  letter-spacing: 0.02em;
-  text-align: left;
-}
+
 .hovered-links:hover {
-  text-decoration: underline #2196f3;
+  color: #2196f3;
 }
 .top-line-phone {
   color: #2196f3;
