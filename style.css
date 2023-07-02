@@ -6,7 +6,7 @@ body {
 .active-link {
   color: #2196f3;
 }
-.hovered-links {
+.hovered-links:hover {
  color: #2196f3;
 }
 .hovered-links:hover {
