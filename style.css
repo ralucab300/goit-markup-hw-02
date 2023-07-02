@@ -6,9 +6,11 @@ body {
 .active-link {
   color: #2196f3;
 }
+
 .hovered-links:hover {
  color: #2196f3;
 }
+
 .hovered-links:hover {
   text-decoration: underline #2196f3;
 }
