@@ -7,11 +7,7 @@ body {
   color: #2196f3;
 }
 .hovered-links {
-  font-size: 14px;
-  font-weight: 500;
-  line-height: 16px;
-  letter-spacing: 0.02em;
-  text-align: left;
+ color: #2196f3;
 }
 .hovered-links:hover {
   text-decoration: underline #2196f3;
