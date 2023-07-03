@@ -60,6 +60,11 @@ body {
   color: #ffffff;
   background-color: #2196f3;
   cursor: pointer;
+  width: 200px;
+  height: 50px;
+  top: 430px;
+  left: 700px;
+  border-radius: 4px;
 }
 .main-p {
   font-size: 14px;
